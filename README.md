@@ -11,10 +11,8 @@
 | ------------ | ------------ |
 |  Colegio: | Colegio Santa Catalina Laboure  |
 |  Mi trabajo | https://joseml27.github.io/glosario-actualizado/glosario.html.  |
-
-
-######  https://joseml27.github.io/figma/
-######  https://joseml27.github.io/figma-nuevvvv/
-######  https://joseml27.github.io/figma2.2.2/
-######  https://joseml27.github.io/figma3333/
-######  https://joseml27.github.io/figma4/
+|  Mi trabajo | https://joseml27.github.io/figma/.  |
+|  Mi trabajo | https://joseml27.github.io/figma-nuevvvv/.  |
+|  Mi trabajo | https://joseml27.github.io/figma2.2.2/.  |
+|  Mi trabajo | https://joseml27.github.io/figma3333/.  |
+|  Mi trabajo | https://joseml27.github.io/figma4/.  |
