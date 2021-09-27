@@ -1,0 +1,8 @@
+.login-background{
+width: 100vw;
+height: 100vh;
+padding-top: 2.7rem;  
+display: flex ;
+    flex-direction: row;
+    justify-content: space-around;
+}

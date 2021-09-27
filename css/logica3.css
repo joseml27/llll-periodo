@@ -1,0 +1,179 @@
+.dashboard-background{
+    background: linear-gradient(35.54deg, #2855AE -7.25%, #7292CF 90.75%);
+    padding-top: 1.7rem;
+}
+
+.banner-dashboard h2{
+    color: #fff;
+    font-size: var(--h2);
+    font-weight: 400;
+    
+}
+
+.banner-dashboard span{
+    color: #FFFFFF;
+    font-size: var(--parrafo);
+    opacity: 0.61;
+    padding-top: 1.1rem;
+    padding-bottom: 1.2rem;
+}
+
+.banner-dashboard a{
+    height: 2.6rem;
+    width: 9.7rem;
+    background: #FFFFFF;
+    color: #6184C7;
+    font-size: var(--parrafo);
+    text-decoration: none;
+    border-radius: 1.8rem;
+    border-style: none;
+    font-weight: normal;
+    top: 15.3rem;
+
+    position: absolute;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.banner-dashboard img{
+    width: 6.2rem;
+    align-self: flex-end;
+    position: absolute;
+    top: 9.1rem;
+}
+
+.banner-dashboard .estrellas{
+    width: 33.34rem;
+    align-self: center;
+    position: absolute;
+    top: 16rem;
+}
+
+.rectangles .rectangle_1{
+    background: #FFFFFF;
+    width: 16.3rem; 
+    height: 20.2rem;
+    top: 19rem;
+    border-radius: 1.5rem;
+    border: 0.1rem #6184C7 solid;
+    position: absolute;
+    align-self: flex-start;
+}
+
+.rectangles .rectangle_1 img{
+    width: 7.2rem;
+    height: 7.2rem;
+    margin: 2.24rem 0rem 0.7rem 1.9rem;
+}
+
+.rectangles .rectangle_1 h1{
+    font-size: 4rem;
+    font-family: 'Bebas Neue', 'cursive';
+    color: var(--negro1);
+    font-weight: 300;
+    margin: 0rem 0rem 0.4rem 2rem;
+}
+
+.rectangles .rectangle_1 span{
+    font-size: var(--size-parrafo);
+    font-weight: normal;
+    color: var(--gris2);
+    margin: 0rem 2rem;
+}
+
+.rectangles .rectangle_2{
+    background: #FFFFFF;
+    width: 16.3rem; 
+    height: 20.2rem;
+    top: 19rem;
+    border-radius: 1.5rem;
+    border: 0.1rem #6184C7 solid;
+    position: absolute;
+    align-self: flex-end;
+}
+
+.rectangles .rectangle_2 img{
+    width: 7.2rem;
+    height: 7.2rem;
+    margin: 2.24rem 0rem 0.7rem 1.9rem;
+}
+
+.rectangles .rectangle_2 h1{
+    font-size: 4rem;
+    font-family: 'Bebas Neue', 'cursive';
+    color: var(--negro1);
+    font-weight: 300;
+    margin: 0rem 0rem 0.4rem 2rem;
+}
+
+.rectangles .rectangle_2 span{
+    font-size: var(--size-parrafo);
+    font-weight: normal;
+    color: var(--gris2);
+    margin: 0rem 2rem;
+}
+
+.squares{
+    background-color: #fff;
+    border-radius: 4rem 4rem 0rem 0rem;
+    padding-top: 12.4rem;
+}
+
+.secciones{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+
+}
+
+.secciones .izquierda{
+    border-radius: 1.5rem;
+    width: 16.3rem;
+    height: 13.2rem;
+    background: #F5F6FC;
+    margin-right: 1.7rem;
+    margin-bottom: 1.7rem;
+}
+
+.secciones .izquierda img{
+    margin: 2.65rem 10.4rem 2rem 1.95rem;
+}
+
+.secciones .izquierda span{
+    color: #000000;
+    font-size: var(--size-parrafo);
+    font-weight: normal;
+    margin: 0rem 0rem 0rem 1.95rem;
+}
+
+.secciones .derecha{
+    border-radius: 1.5rem;
+    width: 16.3rem;
+    height: 13.2rem;
+    background: #F5F6FC;
+    margin-bottom: 1.7rem;
+}
+
+.secciones .derecha img{
+    margin: 2.65rem 10.4rem 2rem 1.95rem;
+}
+
+.secciones .derecha span{
+    color: #000000;
+    font-size: var(--size-parrafo);
+    font-weight: normal;
+    margin: 0rem 0rem 0rem 1.95rem;
+}
+
+
+section{
+    max-width: 37.5rem;
+    height: auto;
+    margin: auto;
+    padding: 5rem 1.5rem;
+
+    display: flex;
+    flex-direction: column;
+}

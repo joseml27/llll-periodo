@@ -1,0 +1,290 @@
+.general-background{
+    background:linear-gradient(35.54deg, #2855AE -7.25%, #7292CF 90.75%);
+    
+    
+    
+    
+    
+    
+    
+    
+}
+.login2-background{
+    max-width: 37.5rem;
+    margin: auto;
+    background: transparent;
+
+    
+    
+    position: relative;
+}
+
+.login2-background h3{
+    margin-top: 2rem;
+
+   font-weight: 400;
+    font-size: var(--h2);
+    color: white;
+}
+.login2-background p{
+
+    font-weight: 10;
+     font-size: 1.8rem;
+     color: white;
+     
+ }
+
+
+
+
+ .login2-background div{
+    margin-top: 1rem;
+
+    margin-bottom: -5rem;
+
+
+    padding-top: 0.2rem;
+    text-align: center;
+    
+    height: 2.1rem;
+    border-radius: 1rem;
+    font-size: 1.3rem;
+    color: var(--azul3);
+
+ }
+ .login2-background .estrellasP{
+   
+    position:absolute;
+    top: 12rem;
+    right: 3.8rem;
+    
+}
+.login2-background .estrellasG{
+   
+    position:absolute;
+    top: 17rem;
+    right: 6.5rem;
+    
+}
+ .login2-background .div3{  
+    padding: 1rem 0rem 0rem 1rem;
+    width: 36rem;
+    height: 0rem;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    background-color: white;
+   
+
+   
+    background-color: white;
+
+    position:absolute;
+    top: 16rem;
+    right:1rem;
+}
+.imagenc {
+position: absolute;
+     right: 0rem;
+}
+.titu{
+  position: absolute;
+     right: 8rem;  
+    text-align: center;
+    font-size: 1rem;
+}
+
+ }
+ .login2-background .text{
+    font-size: var(--parrafo);
+    
+    color: var(--gris5);
+    
+}
+.login2-background h2{
+    font-size: 2.8rem;
+    font-weight: 400;
+    color: black;
+    font-family: 'Bebas Neue', cursive;
+    font-weight: 500;
+   left: 9rem;
+}
+ .foto_perfil{
+    width: 30rem;
+    height: auto;
+    align-self: flex-end;
+    margin-top: -1rem;
+     position: absolute;
+     margin-right: 3rem;
+    
+ }
+.login2-background div{
+    width: 12rem;
+   
+
+    background-color: #FFFFFF;
+}
+
+.imag2{
+    position: absolute;
+     right: 7rem;
+    top: 5rem;
+    
+}
+.login2-lista_funciones{
+    margin-top: 1rem;
+
+    background-color: white;
+    border-radius: 4rem 4rem 0rem 0rem;
+    height: 810px;
+
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+.login2-lista_funciones .div1{
+    
+    margin-top: 6rem;
+
+    padding: 1rem 0rem 0rem 1rem;
+    width: 14rem;
+    height: 9rem;
+    color : #A5A5A5;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+
+    
+    background-color: white;
+}
+
+.div1 input {
+    width: 100%;
+    height: 4rem;
+    border: none;
+    border-bottom: 1px solid #E1E3E8;
+    outline: none;
+    font-size: var(--size-parrafo);
+}
+
+.login2-lista_funciones .div2{
+  margin-top: 6rem;
+
+    padding: 1rem 0rem 0rem 1rem;
+    width: 64rem;
+    height: 5rem;
+    color : black;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    border: 0.1rem solid #E92020;
+    border-left: 17px solid #E92020;
+    
+    background-color: white;
+}
+
+.login2-lista_funciones p{
+    font-size: var(--parrafo);
+    font-weight: 400;
+    color: black;
+}
+.login2-lista_funciones .cora{
+  margin-top: 6rem;
+
+    padding: 1rem 0rem 0rem 1rem;
+    width: 64rem;
+    height: 9rem;
+    color : #A5A5A5;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    
+
+    
+    background-color: white;
+}
+.cora input {
+    width: 100%;
+    height: 4rem;
+    border: none;
+    border-bottom: 1px solid #E1E3E8;
+    outline: none;
+    font-size: var(--size-parrafo);
+}
+.cora img {
+position: absolute;
+    left: 32rem;
+    
+}
+.login2-lista_funciones .div4{
+  margin-top: 6rem;
+
+    padding: 1rem 0rem 0rem 1rem;
+    width: 64rem;
+    height: 5rem;
+    color : black;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+   border: 0.1rem solid #0BAC00;
+    border-left: 17px solid 
+#0BAC00;
+    
+    background-color: white;
+}
+.div4 input {
+    width: 100%;
+    height: 4rem;
+    border: none;
+    border-bottom: 1px solid #E1E3E8;
+    outline: none;
+    font-size: var(--size-parrafo);
+    
+}
+.div4 img {
+position: absolute;
+    left: 32rem;
+    
+}
+.imgbajo{
+margin: 18rem 0rem 0rem -3rem;
+left: 16rem;
+    
+}
+.img3{
+    margin-top: 4.5rem;
+    margin-left: -1.5rem;
+}
+.perro{
+    width: 2.8rem;
+    height: 2.8rem;
+    background: #A9F2A4;
+    border-radius: 100%;
+    font-size: 1.3rem;
+    color: #0BAC00;
+    font-weight: bold;
+    margin-left: 25rem;
+    position: absolute;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    margin-top: -1.5rem;
+}
+.perro2{
+   width: 2.8rem;
+    height: 2.8rem;
+    background: #FFB1B1;
+    border-radius: 100%;
+    font-size: 1.3rem;
+    color: #E92020;
+    font-weight: bold;
+    margin-left: 25rem;
+    position: absolute;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    margin-top: -1.5rem;  
+}

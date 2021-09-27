@@ -1,0 +1,32 @@
+.login2-background{
+width: 100vw;
+height: 100vh;
+
+display: flex ;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.login2-lista_funciones{
+min-width: 90rem;    
+    
+    
+    
+    
+}
+.div3{
+margin: 0rem 46rem 0rem 0rem;    
+    
+    
+    
+    
+}
+.div2 img{
+    
+margin: 0rem 0rem 0rem 19rem;    
+    
+}
+.div4 img{
+    
+margin: 0rem 0rem 0rem 17rem;    
+    
+}

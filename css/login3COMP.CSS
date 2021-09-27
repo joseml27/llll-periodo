@@ -1,0 +1,24 @@
+.dashboard-background{
+width: 100vw;
+height: 100vh; 
+display: flex ;
+    flex-direction: row;
+    justify-content: space-around;
+    
+}
+.banner-dashboard h2{
+margin-top: -32rem;
+
+    
+}
+.squares {
+    max-width: 95rem;
+}
+.rectangles .rectangle_1{
+margin: 25rem 0rem 0rem -25rem;    
+    
+}
+.rectangles .rectangle_2{
+margin: 5rem 8.8rem 0rem 0rem;    
+    
+}
