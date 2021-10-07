@@ -4,7 +4,16 @@
 # Portafolio IV Periodo 2021 😂
 
 <img width="100%" src="https://www.actualidadgadget.com/wp-content/uploads/2017/09/escritorio-gamer.jpg.webp">
-
+|  Portada |  1 |
+| ------------ | ------------ |
+| Anteportada  |  2 |
+| Indice  |  3 |
+| Objetivos  | 4  |
+| Splash  |  5 |
+|  Login |6   |
+| LoginV2  |   6.1|
+| Dashboard  |  7 |
+|  Profile | 8  |
 ## Información
 # 
 |  Nombre: | José Carlos Mazariegos Luarca  |
